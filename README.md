@@ -12,12 +12,6 @@ Aplicativo Flutter para gerenciamento simples de contatos, com foco em organiza�
 
 ---
 
-## 🖼️ Screenshots
-<img src="docs/home.png" width="250"/>
-<img src="docs/cadastro.png" width="250"/>
-
----
-
 ## 🛠️ Tecnologias
 - Flutter
 - Dart
